@@ -18,6 +18,8 @@ set hlsearch
 set showmatch
 set number
 set backspace=indent,eol,start
+set cursorline
+set wildmenu
 
 syntax enable
 set background=dark

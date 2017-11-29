@@ -22,8 +22,6 @@ set cursorline
 set wildmenu
 
 syntax enable
-set background=dark
-colorscheme solarized
 
 map <C-n> :NERDTreeToggle<CR>
 "Show hidden files in NerdTree
